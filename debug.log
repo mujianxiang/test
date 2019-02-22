@@ -1,0 +1,5 @@
+[0118/110540:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[0118/110540:ERROR:block_files.cc(477)] Failed to open C:\Users\mujianxaing\AppData\Local\Tencent\Minibrowser\UserData\data_0
+[0118/110540:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0118/110540:ERROR:cache_util.cc(132)] Unable to move cache folder C:\Users\mujianxaing\AppData\Local\Tencent\Minibrowser\UserData to C:\Users\mujianxaing\AppData\Local\Tencent\Minibrowser\old_UserData_000
+[0118/110540:ERROR:cache_creator.cc(133)] Unable to create cache
